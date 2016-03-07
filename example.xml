@@ -1,0 +1,24 @@
+<0x0b>
+
+<?xml version="1.0"?>
+<reports>
+  <report type="standard">
+    <accession_number>333</accession_number>
+    <arup_test_code>123456</arup_test_code>
+    <specimen_type>bronchoalveolar lavage (BAL)</specimen_type>
+    <detected_pathogens>
+      <pathogen>Influenza Virus, Type A</pathogen>
+      <pathogen>Coronavirus MERS-CoV</pathogen>
+      <pathogen>Serratia marcescens</pathogen>
+      <pathogen>Pheumocystis jirovrci</pathogen>
+      <pathogen>Influenza Virus, Type A</pathogen>
+      <pathogen>Serratia marcescens</pathogen>
+      <pathogen>Pheumocystis jirovrci</pathogen>
+      <pathogen>Serratia marcescens</pathogen>
+      <pathogen>Pheumocystis jirovrci</pathogen>
+      <pathogen>Influenza Virus, Type A</pathogen>
+    </detected_pathogens>
+  </report>
+</reports>
+
+<0x1c><0x0d>

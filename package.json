@@ -1,0 +1,18 @@
+{
+  "name": "ExpressSockets",
+  "description": "Sockets Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "ejs": "*",
+    "body-parser": "*",
+    "socket.io": "*",
+    "http": "*",
+    "fs": "*",
+    "net": "*",
+    "chai": "*",
+    "mocha": "*"
+  }
+}
